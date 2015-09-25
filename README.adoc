@@ -6,18 +6,18 @@ This one-day classroom style session will teach how to operationalize Pivotal Cl
 
 9:00 AM - 9:30 AM:: Keynote from SVP
 9:30 AM - 10:45 AM:: *Session 1: Pivotal Cloud Foundry Architecture and Operations* + 
-_This is a test_
+_Overview of the Pivotal Cloud Foundry architecture with an emphasis on operations_
 10:45 AM - 11:00 AM:: Break
 11:00 AM - 12:00 PM:: *Session 2: Bosh and Ops Manager Overview and Demo* +
-_This is a test_
+_Detailed overview of Bosh and Ops Manager, with a demo of each_
 12:00 PM - 1:00 PM:: Lunch
 1:00 PM - 1:45 PM:: *Session 3: Marketplace Services* +
-_This is a test_
+_The service broker architecture, as well as an overview of available services such as Data, Mobile and Spring Cloud_
 1:45 PM - 2:30PM :: *Session 4: Security Overview* +
-_This is a test_
+_Description_
 2:30 PM - 2:45PM :: Break
 2:45 PM - 3:30PM :: *Session 5: Logging and APM Overview* +
-_This is a test_
+_Description_
 3:30 PM - 4:00PM :: Q&A
 
 
