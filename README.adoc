@@ -20,6 +20,6 @@ This one-day classroom style session will teach how to operationalize Pivotal Cl
 
 * Session 1: link:Presentations/ArchitectureAndOperations.pptx[Pivotal Cloud Foundry Architecture and Operations]
 * Session 2: link:Presentations/ArchitectureAndOperations.pptx[Bosh and Ops Manager Overview]
-* Session 3: link:"Presentations/PCF Marketplace Overview.pptx"[Marketplace Services]
-* Session 4: link:Presentations/ArchitectureAndOperations.pptx[Security Overview]
+* Session 3: link:Presentations/PCFMarketplaceOverview.pptx[Marketplace Services]
+* Session 4: link:Presentations/PivotalCFSecurityOverview.pptx[Security Overview]
 * Session 5: link:Presentations/ArchitectureAndOperations.pptx[Logging and APM Overview]
